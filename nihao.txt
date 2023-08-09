@@ -2,3 +2,5 @@ nihao
 hello
 konnichiha
 bonju
+
+goodbye
